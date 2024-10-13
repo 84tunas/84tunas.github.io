@@ -14,11 +14,11 @@ experiences:
     name: Ankura
     url: "https://ankura.com"
     location: London
-    logo: /images/sections/experiences/company1.jpg
+    logo: /images/sections/experiences/ankura logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Ankura is a global, indipendant firm with a focus on innovation an tailored solutions.
+    overview: Ankura is a global, indipendant firm with a focus on innovation an tailored solutions. <p>Working in Ankura's cyber department has exposed me to a wide array of different projects and scenarios ranging from Standard penetration tests to more niche request including data processing from large financial organisations and code reviews.  
   positions:
   - designation: Associate 
     start: March 2023
@@ -26,9 +26,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
+
     - Penetration testing. 
     - Digital forensics.
-    - Threat Intelligence. 
+    - Threat intelligence. 
   - designation: Intern
     # start: Summer 2021 
     end: Summer 2021
@@ -37,32 +38,32 @@ experiences:
     - worked side by side with industry leading professionals.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: University of West London IT Dept.
+    location: London
+    logo: /images/sections/experiences/uwl.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: Worked in the IT department of my university while studying for my degree. While not a glamarous role, this position required a large amount of lateral thinking, and indepth knowledge of windows and various systems used to help assist anyone with their IT issues. Additionally, I was often required to work under to resolve problems while a lecture was ongoing. 
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Support Enigneer
+    start: March 2020
+    end: January 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Help resolve IT problems from staff and students.
+    - Train new starters in IT security best practices.
+    - Ensure critical systems were reliable and worked as needed.
+    - Windows - on the fly research - communicating complex tasks 
 
 - company:
-    name: Intern Counting Company (ICC).
+    name: Timeless IMS
     url: "https://www.example.com"
-    location: Intern Land
+    location: London
     logo: /images/sections/experiences/company3.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Timeless IMS is an MSP to small and medium businesses. This was my first IT related posisiton and it tought me the foundations of professional IT support and communcating sollutions to non-technical clients. 
   positions:
-  - designation: Intern
+  - designation: Apprentice
     start: Jun 2015
     end: Jan 2016
     responsibilities:
