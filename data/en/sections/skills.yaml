@@ -65,6 +65,12 @@ skills:
   categories: ["basic"]
   url: "https://git-scm.com/"
 
+- name: Google
+  logo: /images/sections/skills/google.jpg
+  summary: "Being able to research a problem efficiently and get useful results is one of the most important skills in this industry. Not to mention the gold mine that is effective Google dorking."
+  categories: ["basic"]
+  url: "https://git-scm.com/"
+
 - name: C++
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Used for learning about memory management and expanding programming knowledge further than just Python." 

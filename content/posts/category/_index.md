@@ -1,8 +1,8 @@
 ---
-title: Top Category Sample
+title: Writeups
 menu:
   sidebar:
-    name: Category
-    identifier: category
+    name: Writeups
+    identifier: Writeups
     weight: 20
 ---
