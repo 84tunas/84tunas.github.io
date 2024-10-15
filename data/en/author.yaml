@@ -3,14 +3,14 @@ name: "Sam Ford"
 nickname: "Sam"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I'm"
-image: "images/author/john.png"
+image: "images/author/man-with-dog (Small).png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "info@84tunas.com"
-  phone: ""
-  github: johndoe
-  linkedin: johndoe
-  researchgate: john-doe
+  # phone: ""
+  # github: johndoe
+  # linkedin: Sam Ford
+  # researchgate: john-doe
 
 # some summary about what you do
 summary:
