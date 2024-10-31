@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 3
@@ -18,7 +18,7 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Ankura is a global, indipendant firm with a focus on innovation an tailored solutions. <p>Working in Ankura's cyber department has exposed me to a wide array of different projects and scenarios ranging from standard penetration tests to more niche request ranging from code reviews to data processing from large financial institutions.  
+    overview: Ankura is a global, indipendant firm with a focus on innovation an tailored solutions. <p>Working in Ankura's cyber department has exposed me to a wide array of different projects and scenarios ranging from standard penetration tests to more niche request ranging from code reviews to high profile intelligence cases for large financial institutions.  
   positions:
   - designation: Associate 
     start: March 2023
@@ -26,10 +26,11 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-
-    - Penetration testing. 
+    - Penetration testing.
     - Digital forensics.
-    - Threat intelligence. 
+    - Code reivew
+    - Threat intelligence.
+    
   - designation: Intern
     # start: Summer 2021 
     end: Summer 2021
@@ -49,10 +50,10 @@ experiences:
     start: March 2020
     end: January 2022
     responsibilities:
-    - Help resolve IT problems from staff and students.
+    - Identify and resolve IT problems from staff and students.
     - Train new starters in IT security best practices.
-    - Ensure critical systems were reliable and worked as needed.
-    - Windows - on the fly research - communicating complex tasks 
+    - Ensure critical systems are reliable and worked as needed.
+    - Windows system administration - on the fly research - communicating complex tasks 
 
 - company:
     name: Timeless IMS
