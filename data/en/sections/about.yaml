@@ -19,9 +19,9 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a penetration tester with a focus on infrastucture and network security. I am Currently working on my OSCP and am planning to take the exam Feb. I love programming and would love to deepen that skill more once I pass my exam.  
+summary: 'I am a penetration tester with a focus on infrastucture and network security. I am Currently working on my OSCP due to take the exam in Feb/March. I love programming and want to deepen that skill and explore webapp security once I pass my exam.  
 
-<p> This site is a place for me to put my writeups while going through my OSCP journey and also a place to keep my CV.'
+<p> This site is a place for me to put writeups or any other cool findings while going through my OSCP as well as a place to keep my CV.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -85,19 +85,19 @@ badges:
 #   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Fast Learner
-  percentage: 90
+  name: Infrastructure + Network Testing
+  percentage: 85 
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Programming
   percentage: 80
   color: green
 
 - type: soft-skill-indicator
-  name: Problem Solving
-  percentage: 85
-  color: yellow
+  name: DFIR
+  percentage: 75 
+  color: pink
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

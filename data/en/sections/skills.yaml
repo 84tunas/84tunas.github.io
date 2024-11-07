@@ -18,7 +18,7 @@ buttons:
 - name: Language
   filter: "language"
 - name: Container
-  filter: "container"
+  filter: "tools"
 - name: Others
   filter: "others"
 
@@ -45,7 +45,7 @@ skills:
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Mainly use this as a hobby, docker powers all the services running on my home server."
-  categories: ["container"]
+  categories: ["other"]
   url: "https://www.docker.com/"
 
 # - name: Prometheus
@@ -53,17 +53,15 @@ skills:
 #   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
 #   categories: ["basic"]
 #   url: "https://prometheus.io/"
+- name: Burpsuite
+  logo: /images/sections/skills/burp.png
+  summary: "I use Burpsuite mainly when doing CTF challenges for my OSCP or when I have time to practice on Burpsuite Academy." 
+  categories: ["tools"]
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Use Linux every day, essentially as my daily driver (thanks to WSL)"
-  categories: ["others"]
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Basic knowledge of git. This website has tought me a lot on how it works."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
+- name: Kali Linux
+  logo: /images/sections/skills/kali.jpg
+  summary: "I use Kali and its tools almost every day, both for CTF challenges and day to day pentests while at work." 
+  categories: ["tools", "other"]
 
 - name: Google
   logo: /images/sections/skills/google.jpg
@@ -71,7 +69,18 @@ skills:
   categories: ["basic"]
   url: "https://git-scm.com/"
 
-- name: C++
+- name: C/C++
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Used for learning about memory management and expanding programming knowledge further than just Python." 
-  categories: ["basic", "language"]
+  categories: ["language"]
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "I am a regular linux user and tinkerer, constantly finding tricks and tools to improve workflows and automate tasks." 
+  categories: ["others"]
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Basic knowledge of git. This website has tought me a lot on how it works."
+  categories: ["basic"]
+  url: "https://git-scm.com/"

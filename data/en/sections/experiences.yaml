@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 3
@@ -18,7 +18,7 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Ankura is a global, indipendant firm with a focus on innovation an tailored solutions. <p>Working in Ankura's cyber department has exposed me to a wide array of different projects and scenarios ranging from standard penetration tests to more niche request ranging from code reviews to data processing from large financial institutions.  
+    overview: Ankura is a global, indipendant firm with a focus on innovation an tailored solutions. <p>Working in Ankura’s cyber department has exposed me to a wide array of different projects and scenarios. It has given me the opportunity to become a well rounded security expert with experience in many areas including penetration testing, code reivew, digital forensics and advisory.
   positions:
   - designation: Associate 
     start: March 2023
@@ -35,7 +35,7 @@ experiences:
     end: Summer 2021
     responsibilities:
     - Month long summer internship with a focus on DFIR
-    - worked side by side with industry leading professionals.
+    - Worked side by side with industry leading professionals on a mock scenario.
 
 - company:
     name: University of West London IT Dept.
