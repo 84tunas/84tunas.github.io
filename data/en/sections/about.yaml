@@ -75,14 +75,16 @@ badges:
   badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139849934"
 
 - type: certification
+  name: 
+  url: ""
+  badge: ""
+
+
+- type: certification
   name: Cyber Scheme Team Member
   url: "https://registry.blockmarktech.com/certificates/589aff03-15a9-45ef-a82b-05f6a3d1a3ef/"
-  badge: "https://registry.blockmarktech.com/certificates/589aff03-15a9-45ef-a82b-05f6a3d1a3ef/widget/?tooltip_position=bottom_right&theme=transparent&hover=t"
+  badge: "https://registry.blockmarktech.com/certificates/589aff03-15a9-45ef-a82b-05f6a3d1a3ef/email-image/?width=148&height=148&image=5be6b49b-a5ae-4844-a911-a5aa541c8742"
 
-# - type: certification
-#   name: Artificial Intelligence and Machine Learning
-#   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-#   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
   name: Infrastructure + Network Testing
