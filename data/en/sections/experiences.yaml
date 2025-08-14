@@ -20,6 +20,12 @@ experiences:
     # company overview
     overview: Ankura is a global, indipendant firm with a focus on innovation an tailored solutions. <p>Working in Ankura’s cyber department has exposed me to a wide array of different projects and scenarios. It has given me the opportunity to become a well rounded security expert with experience in many areas including penetration testing, code reivew, digital forensics and advisory.
   positions:
+  - designation: Senior Associate 
+    start: March 2025
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+
   - designation: Associate 
     start: March 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"

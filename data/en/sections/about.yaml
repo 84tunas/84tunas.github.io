@@ -19,16 +19,16 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a penetration tester with a focus on infrastucture and network security. I am Currently working on my OSCP due to take the exam in Feb/March. I love programming and want to deepen that skill and explore webapp security once I pass my exam.  
+summary: 'I am an OSCP & CSTM certified penetration with almost three years of infrastucture and AD security. I am currently looking to specialise in red teaming and vulnerability research. 
 
-<p> This site is a place for me to put writeups or any other cool findings while going through my OSCP as well as a place to keep my CV.'
+<p> This site is a place for me to learn git the hard way, and put writeups or any other cool findings while I learn.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "info@84tunas.com"
+  url: "5k75ktz48@mozmail.com"
 
 # - name: Github
 #   icon: "fab fa-github"
@@ -69,16 +69,16 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-# - type: certification
-#   name: Certified Kubernetes Security Specialist
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-#
-# - type: certification
-#   name: Istio and IBM Cloud Kubernetes Service
-#   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#   badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
-#
+- type: certification
+  name: OSCP
+  url: "https://credentials.offsec.com/6dc837ee-2e33-44ad-ada8-ceddc4c3199f#acc.MlpsgQu5"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139849934"
+
+- type: certification
+  name: Cyber Scheme Team Member
+  url: "https://registry.blockmarktech.com/certificates/589aff03-15a9-45ef-a82b-05f6a3d1a3ef/"
+  badge: "https://registry.blockmarktech.com/certificates/589aff03-15a9-45ef-a82b-05f6a3d1a3ef/widget/?tooltip_position=bottom_right&theme=transparent&hover=t"
+
 # - type: certification
 #   name: Artificial Intelligence and Machine Learning
 #   url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
