@@ -18,7 +18,7 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Ankura is a global, indipendant firm with a focus on innovation an tailored solutions. <p>Working in Ankura’s cyber department has exposed me to a wide array of different projects and scenarios. It has given me the opportunity to become a well rounded security expert with experience in many areas including penetration testing, code reivew, digital forensics and advisory.
+    overview: Ankura is a global, independant firm with a focus on innovation an tailored solutions. <p>Working in Ankura’s cyber department has exposed me to a wide array of different projects and scenarios. It has given me the opportunity to become a well rounded security expert with experience in many areas including penetration testing, code review, digital forensics and advisory.
   positions:
   - designation: Senior Associate 
     start: March 2025
@@ -51,7 +51,7 @@ experiences:
     # darkLogo: /images/sections/experiences/company2.jpg
     overview: Worked in the IT department of my university while studying for my degree. While not a glamarous role, this position required a large amount of lateral thinking, and indepth knowledge of windows and various systems used to help assist anyone with their IT issues. Additionally, I was often required to work under to resolve problems while a lecture was ongoing. 
   positions:
-  - designation: Support Enigneer
+  - designation: Support Engineer
     start: March 2020
     end: January 2022
     responsibilities:
